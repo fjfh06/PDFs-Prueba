@@ -1,0 +1,23 @@
+Los ejercicios son muy detallados y cada uno de ellos requiere mucha práctica para ser resueltos adecuadamente. Aquí te voy a mostrar algunas pequeñas ayudas y consejos que pueden resultarte útiles:
+
+1) Importación, Objetos y createElement: Estos ejercicios son introductorios y te proporcionan un buen conocimiento de la manipulación del DOM y JavaScript en general. Te recomiendo empezar por estos para entender cómo funcionan los conceptos básicos.
+
+2) Arrays, forEach, Múltiples elementos: Estos ejercicios te ayudarán a profundizar en el uso de arrays y la función forEach(). También introducirán la creación de múltiples elementos del DOM con JavaScript.
+
+3) Objetos, Arrays, Grid CSS: Aquí estás trabajando con objetos, arrays y CSS grid. Te recomiendo empezar con los ejercicios que involucran a Grid CSS para luego pasar al otro tema de manera gradual y no de manera desordenada.
+
+4) Tablas, Formateo de Datos: Aquí estás trabajando con tablas en HTML y formateando datos. Te recomiendo empezar por los ejercicios que te permitan entender cómo añadir filas a una tabla y luego pasar al otro tema para el formateo de datos.
+
+5) Formularios, Validación, Eventos: Aquí estás trabajando con formularios en HTML, la validación de dichos formularios y eventos del DOM. Te recomiendo empezar por los ejercicios que te permitan entender cómo añadir campos a un formulario y luego pasar al otro tema para la validación y el manejo de eventos.
+
+6) Elementos Anidados, Múltiples Clases: Aquí estás trabajando con elementos anidados en el DOM y la adición o eliminación de múltiples clases a un elemento del DOM. Te recomiendo empezar por los ejercicios que te permitan entender cómo añadir hijos a un padre y luego pasar al otro tema para la manipulación de múltiples clases.
+
+7) Estructura del DOM Compleja, Manipulación de Texto: Aquí estás trabajando con una estructura del DOM más compleja y la manipulación de texto en los elementos del DOM. Te recomiendo empezar por los ejercicios que te permitan entender cómo buscar un elemento específico en el DOM y luego pasar al otro tema para la manipulación de texto.
+
+8) Objetos Anidados, Estructuras Jerárquicas: Aquí estás trabajando con objetos anidados y con elementos del DOM que tienen una estructura jerárquica. Te recomiendo empezar por los ejercicios que te permitan entender cómo buscar un elemento específico en el DOM de manera jerárquica y luego pasar al otro tema para la manipulación de objetos anidados.
+
+9) Layouts Complejos, Posicionamiento: Aquí estás trabajando con layouts más complejos y con posicionamiento del DOM. Te recomiendo empezar por los ejercicios que te permitan entender cómo crear una estructura más compleja de un layout y luego pasar al otro tema para el manejo del posicionamiento en el DOM.
+
+10) Manipulación Avanzada, Estado, Eventos: Aquí estás trabajando con manipulación avanzada del DOM, la gestion del estado de tu aplicación y eventos del DOM. Te recomiendo empezar por los ejercicios que te permitan entender cómo crear una estructura más compleja de un layout y luego pasar al otro tema para el manejo del posicionamiento en el DOM.
+
+Te sugiero trabajar con estos ejercicios en orden, cada uno sirviendo como base para el siguiente. Te recomendaría empezar por los más básicos y avanzando de a poco. También te puede ayudar la resolución paso a paso que ofrecen las pistas de estos ejercicios.
